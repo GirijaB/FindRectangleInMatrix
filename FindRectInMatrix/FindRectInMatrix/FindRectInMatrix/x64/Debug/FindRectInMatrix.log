@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  FindRectInMatrix.cpp
+c:\testproject\findrectinmatrix\findrectinmatrix\findrectinmatrix\findrectinmatrix.cpp(44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\testproject\findrectinmatrix\findrectinmatrix\findrectinmatrix\findrectinmatrix.cpp(46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FindRectInMatrix.vcxproj -> C:\TestProject\FindRectInMatrix\FindRectInMatrix\x64\Debug\FindRectInMatrix.exe
